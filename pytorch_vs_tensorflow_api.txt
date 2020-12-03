@@ -1,0 +1,16 @@
+Module: tf.nn
+Wrappers for primitive Neural Net (NN) Operations.
+
+Description: 
+operation including conv1d to conv3d and avg_pool etc.
+
+Module: torch.nn
+These are the basic building block for graphs
+
+Description: 
+functions (Loss function, Quantized function and other utility function etc) and 
+layers (convolution, pooling and padding layers etc)
+
+
+Q: The difference between torch.nn and torch.nn.functional?
+A: see https://discuss.pytorch.org/t/what-is-the-difference-between-torch-nn-and-torch-nn-functional/33597/6
